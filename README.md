@@ -1,4 +1,5 @@
-Hi 👋 My name is Maximilian Georg
+Hi 👋 
+My name is Maximilian Georg
 =================================
 
 Building 🔨 and shipping 🚢 products with real customer value.
@@ -6,7 +7,7 @@ Building 🔨 and shipping 🚢 products with real customer value.
 I love to learn new things! 🤓
 
 * 🌍  I'm based in Germany
-* 🖥️  See my portfolio at [here](http://maxgeorg99.github.io/Max-developerFolio/)
+* 🖥️  See my portfolio [here](http://maxgeorg99.github.io/Max-developerFolio/)
 * ✉️  You can contact me at [maxi.georg.mg@gmail.com](mailto:maxi.georg.mg@gmail.com)
 * 🚀  I'm currently working on [my first game](http://survive-with-friends.com/)
 * 🧠  I'm learning Laravel, Rust and Game Development
