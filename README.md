@@ -1,17 +1,27 @@
 Hi 👋 
-My name is Maximilian Georg
+My name is Max
 =================================
+I'm an engineering leader passionate about **building, shipping, and scaling products that deliver real customer value.** 🚀
 
-Building 🔨 and shipping 🚢 products with real customer value.
+I'm a curious person who loves learning new technologies, solving challenging problems, and turning ideas into reality.
 
-I love to learn new things! 🤓
+- 🌍 Based in Germany 🇩🇪
+- 👨‍💻 Engineering Team Lead at [Chrono24](https://www.chrono24.com), leading development for selling watches⌚
+- 🛠️ Currently exploring **Rust, game development, and multiplayer systems**
+- 🎮 Building indie games and experimenting with new technologies and ideas on [itch.io](https://ucfreakyy.itch.io/)
+- 🌐 Check out my [portfolio](https://maxgeorg99.github.io/Max-developerFolio/)
+- ✉️ Reach me at [maxi.georg.mg@gmail.com](mailto:maxi.georg.mg@gmail.com)
 
-* 🌍  I'm based in Germany
-* 🖥️  See my portfolio [here](http://maxgeorg99.github.io/Max-developerFolio/)
-* ✉️  You can contact me at [maxi.georg.mg@gmail.com](mailto:maxi.georg.mg@gmail.com)
-* 🚀  I'm currently working on [my first game](http://survive-with-friends.com/)
-* 🧠  I'm currently learning Godot, Rust and Game Development
-* ⚡  I love to do all kind of sports like Crossfit, weightlifting, running and riding my gravel bike 🚴🏻‍♂️
+### Beyond coding 🤓
+
+When I'm not building software, you'll probably find me:
+
+- 🏋️ Doing CrossFit, weightlifting, running, or cycling
+- 🎲 Playing board games and trading card games
+- 📚 Reading books and manga or watching anime
+- ✈️ Traveling and discovering new places and experiences
+
+**Always curious. Always building. Always learning.**
 
 ### Skills
 
